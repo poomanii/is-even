@@ -1,0 +1,24 @@
+{
+  "name": "is-even",
+  "version": "1.0.0",
+  "description": "sample npm package project",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poomanii/is-even.git"
+  },
+  "author": "Bullet",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/poomanii/is-even/issues"
+  },
+  "homepage": "https://github.com/poomanii/is-even#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
